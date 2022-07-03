@@ -373,7 +373,7 @@ if($php_version_success && $curl_success && $mysqli_success && $openssl_success 
 		        </div> 
 		    </div>
 		</div>
-	</form>C O D E L I S T . C C 
+	</form>
 	<script type="text/javascript" src="./assets/plugins/bootstrap/js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="./assets/plugins/smartwizard/js/jquery.smartWizard.js"></script>
 	<script type="text/javascript" src="./assets/js/main.js"></script>
